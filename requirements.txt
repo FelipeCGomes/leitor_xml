@@ -1,0 +1,6 @@
+# requirements.txt
+streamlit>=1.45
+pandas>=2.2
+lxml>=5.2          # parser XML
+openpyxl>=3.1      # exportar Excel
+altair>=5.5        # (caso continue usando gráficos)
